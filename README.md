@@ -5,7 +5,7 @@
 ~~I'm awad~~ I'm zawad  
 _this is a italic text_  
 __this is a bold text__  
-`I'm a web desighner and daveloper`
+`I'm a web designer and developer`
 
 ### story.html
 
@@ -75,7 +75,7 @@ __this is a bold text__
 ### Task List
 - [x] Task1
 - [x] Task1
-- [] Task1
+- [ ] Task1
 
 ### automatic link
 
