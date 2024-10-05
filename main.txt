@@ -1,0 +1,6 @@
+Stories:
+  1. Jack and the Beanstalk
+  2. The Wizard of Oz
+  3. The Three Little Pigs
+  4. Cinderella
+  5. Snow White
