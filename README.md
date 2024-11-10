@@ -79,7 +79,7 @@ __this is a bold text__
 
 ### automatic link
 
-http://www.studywithanis.com
+http://www.amazon.com
 
 ### disable link
 
