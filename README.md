@@ -83,11 +83,11 @@ http://www.studywithanis.com
 
 ### disable link
 
-`http://www.studywithanis.com`
+`http://www.amazon.com`
 
 ### markdown link 
 
-[studywithanis](http://www.studywithanis.com)
+[amazon](http://www.amazon.com)
 
 ### markdown link 
 
